@@ -1,0 +1,24 @@
+{
+  "name": "homepug",
+  "version": "1.0.0",
+  "description": "home ya con pugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuadri84/HomePug.git"
+  },
+  "author": "Cuadri84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cuadri84/HomePug/issues"
+  },
+  "homepage": "https://github.com/Cuadri84/HomePug#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
